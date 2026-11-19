@@ -1,0 +1,31 @@
+PS C:\Users\Student\cpp-practicals> g++ practical3.cpp -o practical3
+PS C:\Users\Student\cpp-practicals> .\practical3.exe
+----- RULE OF FIVE DEMONSTRATION ----- Student Name: Satinderpal Singh Chaney
+Roll Number: E26B00S2034
+Default Constructor Called
+Parameterized Constructor Called
+Array Elements: 10 20 30 40 50
+Copy Constructor Called
+Deep Copy Created Successfully!
+Default Constructor Called
+Copy Assignment Operator Called
+Array Copied Successfully!
+Move Constructor Called
+Ownership Transferred Successfully!
+Default Constructor Called
+Move Assignment Operator Called
+Resource Moved Successfully!
+Program executed successfully.
+Destructor Called
+Memory Released Successfully!
+Destructor Called
+Memory Released Successfully!
+Destructor Called
+Memory Released Successfully!
+Destructor Called
+Memory Released Successfully!
+Destructor Called
+Memory Released Successfully!
+Destructor Called
+Memory Released Successfully!
+PS C:\Users\Student\cpp-practicals>
